@@ -1,7 +1,7 @@
 # -MY-EXPENSE-TRACKER-
 A Mobile App that accounts for expenses that we spend on our essential needs and shows a bar chart that shows how much we spend on our needs.
 
-##Problem it Solves
+## Problem it Solves
 ---
 1. Difficulty in managing the saving
 2. Get free from pen paper
